@@ -1,3 +1,3 @@
 [submodule "labelImgGUI"]
 	path = labelImgGUI
-	url = https://github.com/tzutalin/labelImg.git
+	url = git@github.com:world-bit/labelImg.git
